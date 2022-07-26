@@ -1,0 +1,57 @@
+* {
+    padding: 0rem 3rem;
+    background-color: rgb(255, 255, 236);
+}
+
+html {
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.link-container {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.link-container p {
+    font-size: larger;
+}
+
+.sections a {
+    font-size: 1.5rem;
+    justify-content: center;
+    color: rgb(59, 59, 255);
+    text-decoration: none;
+}
+
+h1, h2 {
+    color: rgb(11, 0, 171);
+    text-align: center;
+    text-decoration: underline solid palevioletred;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+ img {
+    width: 30%;
+    border-radius: 15%;
+    margin: 3rem 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+#name {
+    font-size: 5rem;
+    padding-left: 20%;
+}
+
+#photo {
+    margin-left: 25%;
+    width: 40%;
+}
